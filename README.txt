@@ -1,4 +1,15 @@
 PART1
+The goal of this project is to get hands-on implementation of the vector space model, text preprocessing, system tuning, and experimentation in Information Retrieval.
+ - Develop an experimental retrieval system based on the vector space model.
+ - Experiment with methods for text processing, query construction, term and document weighting, similarity measurement, etc.
+ - Optimize the system performance on the provided test collections (in English and Czech)
+
+PART2
+The goal of this project is to learn about available frameworks for Information Retrieval and use them to deliver state-of-the-art results on the provided test collections (the same as in PART1).
+ - Use the PyTerrier framework to setup/implement an IR system.
+ - Optimize the system on the provided test collections (using the training topics)
+
+PART1
 ------------------
 How to run the script
 
